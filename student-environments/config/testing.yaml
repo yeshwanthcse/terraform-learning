@@ -1,0 +1,70 @@
+class_level: fundys
+link_to_survey: https://sfdc.plusplus.co/login/?next=/a/surveys/908/
+link_to_slides: https://docs.google.com/presentation/d/1VTkm6YBn4ZZMBdbGTrgA0sq1HJHEWbyz/edit?usp=sharing&ouid=112933221711646163279&rtpof=true&sd=true
+students:
+  - name: Sameer Apache
+    email: sarora@apache.org
+
+  - name: Surendra Polla
+    email: suray.redhat@gmail.com
+
+  - name: Akram Siddiqui
+    email: akram.siddiqui@salesforce.com
+
+  - name: Sreekanth Reddy
+    email: sreekanth.reddy@salesforce.com
+
+  - name: Lawrence Teo
+    email: kteo@salesforce.com
+
+  - name: Kamal Kumar
+    email: kamal.kumar@salesforce.com
+
+  - name: Yeshwanath Karanam
+    email: yeshwanthcse@gmail.com
+
+  - name: Ajay Medam
+    email: ajay.medam@gmail.com
+
+  - name: Ishant Gupta
+    email: igupta@salesforce.com
+
+  - name: Vasanth Kumar
+    email: varunachalam@salesforce.com
+
+  - name: Sam Foo
+    email: sfoo@salesforce.com
+
+  - name: Mahesh Kumar
+    email: maheshkumar@salesforce.com
+
+  - name: Rikih Gunawan
+    email: rgunawan@salesforce.com
+
+  - name: Shufen Ong
+    email: song@salesforce.com
+
+  - name: Sajeesh Sankarapanickar
+    email: sajeesh79@gmail.com
+
+  - name: Veeranna Muppaty
+    email: vmuppaty@salesforce.com
+
+  - name: sasidhar sanakarasetty
+    email: 2ssasidhar@gmail.com
+
+  - name: raghin raghavan
+    email: raghin.raghavan@salesforce.com
+
+  - name: Kenji Shimamoto
+    email: kshimamoto@salesforce.com
+
+  - name: Jitendra Sharma
+    email: Jitendra.sharma@salesforce.com
+
+  - name: Priya Praharaj
+    email: ppraharaj@salesforce.com
+
+  - name: Chaitanya Pemmaraju
+    email: cpemmaraju@salesforce.com
+

@@ -1,0 +1,18 @@
+Hey there!
+
+Here is the AWS account and other course info --
+
+AWS Console URL: https://176951223124.signin.aws.amazon.com/console
+AWS Console Account Alias: teaching
+AWS Console Username: sarora@apache.org
+AWS Console Password: k@A-Zo&I3e
+
+AWS Region to create your Cloud9 environments in: us-east-2 (Ohio)
+AWS Region for **Exercise 11 only**: us-west-2
+
+Your Student Alias: sameer-apache
+
+Repo: https://github.com/sameerarora/terraform-fundamentals
+Link to the slides: https://docs.google.com/presentation/d/1VTkm6YBn4ZZMBdbGTrgA0sq1HJHEWbyz/edit?usp=sharing&ouid=112933221711646163279&rtpof=true&sd=true
+Link to personal feedback survery: testing
+Instructor email: sameer@datacouch.io
